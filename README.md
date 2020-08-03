@@ -17,3 +17,4 @@ Esto es `código`
 
 ## Otra
 
+![](docs/captura.png)
