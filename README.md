@@ -14,3 +14,6 @@ Hola esto es código
 
 
 ![](docs/captura1.png)
+
+
+![](prueba.drawio.png)
